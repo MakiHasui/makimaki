@@ -1,2 +1,2 @@
 # Display the output
-Prit ("New Python File")|
+Print ("New Python File")|
